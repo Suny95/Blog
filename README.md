@@ -69,8 +69,7 @@ type: "tags"
 # 头部菜单，title: link
 menu:
   Whoami: /whoami
-  Github: https://github.com/Fechin
-  Twitter: https://twitter.com/FechinLi
+  Github: https://github.com/Suny95
   分类: /categories
   归档: /archives
   标签云: /tags
@@ -112,7 +111,7 @@ gitalk:
     distractionFreeMode: false
 
 # 网站关键字
-keywords: Fechin
+keywords: Sunny
 
 # 要使用google_analytics进行统计的话，这里需要配置ID
 google_analytics: 
