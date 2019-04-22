@@ -1,7 +1,9 @@
 ---
 title: test
 date: 2019-04-22 15:22:26
-tags:
+tags: test
+categories: 
+- 测试分类
 ---
 
 # Hexo-theme-diaspora
