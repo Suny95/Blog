@@ -1,0 +1,3 @@
+[submodule "themes/myTheme"]
+	path = themes/myTheme
+	url = https://github.com/Suny95/theme.git
