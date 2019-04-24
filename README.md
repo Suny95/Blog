@@ -123,3 +123,34 @@ favicon: /img/favicon.png
 rss: atom.xml
 ```
 
+# 黑蓝主题
+新文章增加如下头信息:
+```
+title: 线程简记
+date: 2019-4-23 13:25:30
+tags: 
+- 线程
+- 线程方法
+categories: 
+- 多线程
+---
+** {{ title }}：** <Excerpt in index | 首页摘要>
+多线程
+<!-- more -->
+<The rest of contents | 余下全文>
+```
+
+# 唯美主题
+新文章增加如下头信息:
+```
+---
+title: 线程简记
+date: 2019-04-22 15:22:26
+tags:
+- 线程
+- 线程方法
+categories:
+- 多线程
+cover: 封面图片地址
+---
+```
