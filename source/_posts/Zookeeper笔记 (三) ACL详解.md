@@ -6,7 +6,7 @@ tags:
 - acl
 categories:
 - zookeeper
-cover:
+cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557063802163&di=666f1bb76fedddd50dac984c190aa199&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201607%2F20%2F20160720161857_NcJZE.jpeg
 ---
 本文参考地址: [【Zookeeper 学习笔记】—ACL权限控制](http://cmsblogs.com/?p=4101)
 
