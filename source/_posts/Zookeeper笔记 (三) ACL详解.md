@@ -1,4 +1,3 @@
----
 title: Zookeeper笔记 (二) ACL详解
 date: 2019-05-05 15:23:37
 tags:
@@ -6,8 +5,12 @@ tags:
 - acl
 categories:
 - zookeeper
-cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557063802163&di=666f1bb76fedddd50dac984c190aa199&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201607%2F20%2F20160720161857_NcJZE.jpeg
 ---
+** {{ title }}：** <Excerpt in index | 首页摘要>
+ACL权限控制
+<!-- more -->
+<The rest of contents | 余下全文>
+
 本文参考地址: [【Zookeeper 学习笔记】—ACL权限控制](http://cmsblogs.com/?p=4101)
 
 ACL权限控制是使用 schema : id : permission来标识。

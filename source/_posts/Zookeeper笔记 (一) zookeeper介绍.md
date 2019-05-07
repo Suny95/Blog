@@ -1,4 +1,3 @@
----
 title: Zookeeper笔记 (一) zookeeper介绍
 date: 2019-04-30 11:26:12
 tags:
@@ -6,8 +5,12 @@ tags:
 - znode
 categories:
 - zookeeper
-cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556617451718&di=cd0ef998111940345f9ba9452d96bdd3&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201204%2F03%2F20120403223937_dsku3.jpeg
 ---
+** {{ title }}：** <Excerpt in index | 首页摘要>
+zookeeper介绍
+<!-- more -->
+<The rest of contents | 余下全文>
+
 本文参考地址: [【Zookeeper 学习笔记】—zookeeper基本介绍](http://cmsblogs.com/?p=4099)
 
 - ### zookeeper是什么

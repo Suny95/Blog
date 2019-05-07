@@ -1,12 +1,14 @@
----
 title: Zookeeper笔记 (六) 祥解ZAB协议
 date: 2019-05-06 15:13:13
 tags:
 - zookeeper
 categories:
 - zookeeper
-cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557738630&di=238c89426d16639b9f9b21f58ae2a021&imgtype=jpg&er=1&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201511%2F02%2F20151102140204_WUSwE.jpeg
 ---
+** {{ title }}：** <Excerpt in index | 首页摘要>
+祥解ZAB协议
+<!-- more -->
+<The rest of contents | 余下全文>
 
 本文参考地址：[【Zookeeper 学习笔记】—实例详解ZooKeeper ZAB协议、分布式锁与领导选举](http://cmsblogs.com/?p=4113)
 

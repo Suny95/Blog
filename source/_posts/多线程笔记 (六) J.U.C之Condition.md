@@ -1,4 +1,3 @@
----
 title: 多线程笔记 (六) J.U.C之Condition
 date: 2019-04-28 16:33:19
 tags:  
@@ -6,8 +5,11 @@ tags:
 - condition
 categories:
 - 多线程
-cover:
 ---
+** {{ title }}：** <Excerpt in index | 首页摘要>
+J.U.C之Condition
+<!-- more -->
+<The rest of contents | 余下全文>
 
 本文参考地址：[【死磕Java并发】—–J.U.C之Condition](http://cmsblogs.com/?p=2222)
 

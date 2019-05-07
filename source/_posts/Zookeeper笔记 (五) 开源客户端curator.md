@@ -1,4 +1,3 @@
----
 title: Zookeeper笔记 (五) 开源客户端curator
 date: 2019-05-05 16:15:32
 tags:
@@ -6,8 +5,11 @@ tags:
 - curator
 categories:
 - zookeeper
-cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557738822&di=d5e2a7336ec3432908c8ff1dcbab2d6e&imgtype=jpg&er=1&src=http%3A%2F%2Fdesk.fd.zol-img.com.cn%2Fg5%2FM00%2F03%2F00%2FChMkJ1bK-AiIcdSUAAUKr_Ipq9MAALK6gMESSMABQrH811.jpg
 ---
+** {{ title }}：** <Excerpt in index | 首页摘要>
+开源客户端curator
+<!-- more -->
+<The rest of contents | 余下全文>
 
 本文参考地址：[【Zookeeper 学习笔记】—zookeeper开源客户端curator](http://cmsblogs.com/?p=4109)
 

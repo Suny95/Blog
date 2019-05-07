@@ -1,4 +1,3 @@
----
 title: Zookeeper笔记 (四) Watcher机制
 date: 2019-05-05 15:46:20
 tags:
@@ -6,8 +5,11 @@ tags:
 - watcher
 categories:
 - zookeeper
-cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557064021693&di=92260587dbb9fc5c49b1a022240cc96a&imgtype=0&src=http%3A%2F%2Fwww.33lc.com%2Farticle%2FUploadPic%2F2012-8%2F20128161646424579.jpg
 ---
+** {{ title }}：** <Excerpt in index | 首页摘要>
+Watcher机制
+<!-- more -->
+<The rest of contents | 余下全文>
 
 本文参考地址：[【Zookeeper 学习笔记】—Watcher机制](http://cmsblogs.com/?p=4105)
 

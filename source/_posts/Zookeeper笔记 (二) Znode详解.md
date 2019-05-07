@@ -1,4 +1,3 @@
----
 title: Zookeeper笔记 (二) Znode详解
 date: 2019-04-30 14:33:37
 tags:
@@ -6,8 +5,12 @@ tags:
 - znode
 categories:
 - zookeeper
-cover: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557054085214&di=b580e66b39e26d1d60e85e84d535c3f8&imgtype=0&src=http%3A%2F%2Fimg3.3lian.com%2F2013%2Fc2%2F67%2Fd%2F31.jpg
 ---
+** {{ title }}：** <Excerpt in index | 首页摘要>
+Znode详解
+<!-- more -->
+<The rest of contents | 余下全文>
+
 本文参考地址: [【Zookeeper 学习笔记】—Znode剖析](http://cmsblogs.com/?p=4103)
 
 - ### 简介
