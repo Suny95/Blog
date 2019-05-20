@@ -1,4 +1,4 @@
-title: Zookeeper笔记 (二) ACL详解
+title: Zookeeper笔记 (三) ACL详解
 date: 2019-05-05 15:23:37
 tags:
 - zookeeper
